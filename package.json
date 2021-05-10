@@ -14,7 +14,7 @@
   "main": "background.js",
   "dependencies": {
     "core-js": "^2.6.5",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "password-hash": "^1.2.2",
     "phaser": "^3.19.0",
     "uuid": "^3.3.3",
